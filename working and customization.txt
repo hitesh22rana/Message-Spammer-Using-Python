@@ -1,0 +1,9 @@
+This script is good to go but in case you want to change something feel free to customize the code 
+
+Steps :-
+
+1) Installation of python is required.
+2) Installation of module is required to run the script to add module open your terminal and type pip install pyautogui and it will automatically install it.
+3) Now, just after running the script open where you want to spam and just put you cursor on the field the script will execute and you can see the live result.
+
+Thank You!!
